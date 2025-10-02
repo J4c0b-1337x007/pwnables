@@ -24,3 +24,26 @@ https://youtube.com/@j4c0b-exploit?si=1a_ZT_7vukWQ9qgE
 
 **— J4c0b-1337x007** ✌️
 
+האתגרים שביצעתי בינתיים:
+asm
+blackjack
+bof
+brainfuck
+cmd1
+cmd2
+coin1
+col
+fd
+input2
+leg
+lotto
+md5calculator
+memcpy
+mistake
+passcode
+random
+orw
+silver bullet
+professor
+
+
